@@ -1,0 +1,11 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=us-ascii\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Magic translations works!"
+msgstr ""
+
+msgid "Here with interpolation, and everything thanks to %s and %s"
+msgstr ""
+
